@@ -18,3 +18,19 @@ Script to prepare Azure Resources for a Site to Site VPN
   + Virtual Network Gateway Connection
   
  
+CreateRecoveryServices.ps1
+Script to prepare Azure resources for a migration from AWS
+ + Resource Group
+ + Storage Account
+ + Recovery Services Vault
+ + Virtual Network
+ 
+ 
+ CreateAzKeyVaultSecret.ps1
+ Script to create Vault with Secret
+  + Resource Group
+  + Vault
+  + Permissions for relevant Azure AD group
+  + Secret in Vault
+  
+  
