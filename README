@@ -1,0 +1,20 @@
+
+
+PrepAzureResourcesForVPN.ps1
+Script to prepare Azure Resources for a Site to Site VPN
+ + Resource Group
+ + Storage Group
+ + Virtual Network
+ + Front-end Subnet
+ + Gateway Subnet
+ + Public IP Address
+ + Gateway IP Address
+ + Virtual Network Gateway
+ 
+ 
+ CreateAzLGNandVPNConnection.ps1
+ Script to set Local Network Gateway (the customer gateway) and the VPN connection in Azure
+  + Local Network Gateway
+  + Virtual Network Gateway Connection
+  
+ 
